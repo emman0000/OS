@@ -47,3 +47,15 @@
 
 ![Screenshot from 2025-03-04 13-12-47](https://github.com/user-attachments/assets/4f7589fb-6967-4690-bc9c-b98dd71c3c33)
 
+### Q13 + Q14.
+
+![Screenshot from 2025-03-04 14-48-16](https://github.com/user-attachments/assets/2a0d7cc2-9dd9-4fb7-9d68-f903c3f4135d)
+
+### Q15.
+
+![Screenshot from 2025-03-04 14-57-00](https://github.com/user-attachments/assets/e919d511-c8ca-47c3-b98a-6b9fd8dd9726)
+
+
+
+
+
