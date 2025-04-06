@@ -19,6 +19,7 @@
 
 ### (b)
 
+![Screenshot from 2025-04-06 20-28-54](https://github.com/user-attachments/assets/46ad835f-2d8f-4582-bde8-dfe3b1e4aa24)
 
 ## Question 2
 
