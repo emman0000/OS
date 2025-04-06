@@ -7,7 +7,7 @@
 )![Screenshot from 2025-04-06 20-26-43](https://github.com/user-attachments/assets/403952c7-fa13-4be3-8ff5-c6900d2badf0)
 
 ### (b)
-
+Threads A and B both access and modify the counter variable simultaneously. The operation counter = counter + 1 is not atomic—it consists of three separate steps: reading the current value, incrementing it, and writing it back. Since these steps can interleave unpredictably, the final value of counter may be incorrect due to race conditions."
 
 ### (c)
 ![Screenshot from 2025-04-06 20-24-56](https://github.com/user-attachments/assets/86eb73ad-47ae-4793-b60c-63e248a7f843)
