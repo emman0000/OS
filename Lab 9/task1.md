@@ -1,4 +1,4 @@
-    
+### a)    
     
     #include <stdio.h>
     #include <signal.h>
@@ -44,7 +44,7 @@
 
   
   
-  
+ ### b) 
   
           #include <stdio.h>
         #include <signal.h>
